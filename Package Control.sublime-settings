@@ -1,0 +1,19 @@
+{
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
+	"installed_packages":
+	[
+		"ConvertToUTF8",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeGit",
+		"TSQLEasy"
+	],
+	"repositories":
+	[
+		"https://github.com/tosher/TSQLEasy.git"
+	]
+}
