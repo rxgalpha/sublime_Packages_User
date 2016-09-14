@@ -1,15 +1,25 @@
 {
-	"installed_dependencies":
+	"bootstrapped": true,
+	"in_process_packages":
 	[
-		"0_package_control_loader",
-		"bz2"
 	],
 	"installed_packages":
 	[
+		"42 Headers",
 		"ConvertToUTF8",
+		"CoolFormat",
+		"EditorConfig",
+		"Emmet",
+		"LogView",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Matlab Completions",
 		"Package Control",
+		"PlainTasks",
+		"PowerShell",
+		"SFTP",
 		"SideBarEnhancements",
-		"SublimeGit",
+		"SublimeAStyleFormatter",
 		"TSQLEasy"
 	],
 	"repositories":
