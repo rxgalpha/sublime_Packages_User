@@ -5,7 +5,6 @@
 	],
 	"installed_packages":
 	[
-		"42 Headers",
 		"ConvertToUTF8",
 		"CoolFormat",
 		"EditorConfig",
@@ -13,13 +12,18 @@
 		"LogView",
 		"Markdown Preview",
 		"MarkdownEditing",
-		"Matlab Completions",
 		"Package Control",
+		"PackageDev",
+		"PackageResourceViewer",
 		"PlainTasks",
 		"PowerShell",
 		"SFTP",
 		"SideBarEnhancements",
 		"SublimeAStyleFormatter",
+		"SublimeGit",
+		"Sublimerge 3",
+		"TodoReview",
+		"TortoiseGIT",
 		"TSQLEasy"
 	],
 	"repositories":
