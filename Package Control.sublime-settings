@@ -2,6 +2,7 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"Package Control"
 	],
 	"installed_packages":
 	[
@@ -22,7 +23,6 @@
 		"SublimeAStyleFormatter",
 		"SublimeGit",
 		"Sublimerge 3",
-		"TodoReview",
 		"TortoiseGIT",
 		"TSQLEasy"
 	],
